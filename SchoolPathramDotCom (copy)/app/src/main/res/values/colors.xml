@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#374240</color>
+    <color name="mainBg">#252727</color>
+    <color name="white">#FFFFFF</color>
+    <color name="app_bar">#355C7D</color>
+    <color name="login_pwd_circle_before">#FFFFFF</color>
+    <color name="login_pwd_circle_after">#C06C84</color>
+
+
+
+    <color name="yellow_middle">#ffee58</color>
+    <color name="yellow_end">#7ae7de83</color>
+
+</resources>

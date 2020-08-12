@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient_1"
+    android:padding="@dimen/login_register_horizontal_margin"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/profileImageViewProfile"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:contentDescription="@string/nav_header_desc"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        android:src="@drawable/baseline_account_circle_24" />
+
+    <EditText
+        android:id="@+id/firstNameProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profileImageViewProfile"
+        android:gravity="center"
+        android:hint="@string/prompt_first_name"
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/lastNameProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/firstNameProfile"
+        android:gravity="center"
+        android:hint="@string/prompt_last_name"
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/emailProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lastNameProfile"
+        android:gravity="center"
+        android:hint="@string/prompt_email_register"
+        android:inputType="textEmailAddress"
+        android:selectAllOnFocus="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+
+        />
+
+    <EditText
+        android:id="@+id/mobileNumberProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailProfile"
+        android:gravity="center"
+        android:hint="@string/prompt_mobile"
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+
+    <Button
+        android:id="@+id/profileUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mobileNumberProfile"
+        android:layout_centerInParent="true"
+        android:layout_gravity="start"
+        android:enabled="true"
+        android:gravity="center"
+        android:text="@string/action_update_profile"
+        android:textColor="@color/white" />
+
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+
+        />
+</RelativeLayout>

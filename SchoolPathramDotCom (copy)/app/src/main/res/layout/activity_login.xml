@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/bg_gradient_1"
+    tools:context=".ui.user.LoginActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/pwdCircle"
+    android:gravity="center">
+    <EditText
+        android:id="@+id/login_circle_1"
+        android:background="@drawable/simple_circle"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:cursorVisible="false"
+        android:maxLength="1"/>
+
+    <EditText
+        android:id="@+id/login_circle_2"
+        android:layout_marginLeft="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:maxLength="1"
+        android:cursorVisible="false"
+        android:background="@drawable/simple_circle"/>
+
+    <EditText
+        android:id="@+id/login_circle_3"
+        android:layout_width="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:maxLength="1"
+        android:cursorVisible="false"
+        android:background="@drawable/simple_circle"/>
+    <EditText
+        android:id="@+id/login_circle_4"
+        android:layout_width="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_height="50dp"
+        android:inputType="number"
+        android:maxLength="1"
+        android:cursorVisible="false"
+        android:background="@drawable/simple_circle"/>
+</LinearLayout>
+    <TextView
+        android:id="@+id/orText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@+id/pwdCircle"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="25dp"
+        android:textColor="@color/white"
+        android:text="or"/>
+        <Button
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:enabled="true"
+            android:text="@string/action_register"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_below="@+id/orText"
+            android:layout_centerInParent="true"
+             />
+
+<!--    <EditText-->
+<!--        android:id="@+id/username"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="@string/prompt_email"-->
+<!--        android:textColorHint="@color/white"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:inputType="textEmailAddress"-->
+<!--        android:gravity="center"-->
+<!--        android:selectAllOnFocus="true"-->
+<!--         />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/password"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="@string/prompt_password"-->
+<!--        android:textColorHint="@color/white"-->
+<!--        android:gravity="center"-->
+<!--        android:imeActionLabel="@string/action_sign_in_short"-->
+<!--        android:imeOptions="actionDone"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:inputType="textPassword"-->
+<!--        android:selectAllOnFocus="true"-->
+<!--        android:layout_below="@+id/username"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/login"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/password"-->
+<!--        android:layout_gravity="start"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:enabled="false"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:text="@string/action_sign_in" />-->
+<!--    <Button-->
+<!--        android:id="@+id/register"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="start"-->
+<!--        android:enabled="true"-->
+<!--        android:text="@string/action_register"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_below="@+id/login"-->
+<!--        android:layout_centerInParent="true"-->
+<!--         />-->
+
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+
+        />
+</RelativeLayout>

@@ -1,0 +1,1702 @@
+[
+    {
+        "id": 41,
+        "count": 10,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/billiard/",
+        "name": "Billiard",
+        "slug": "billiard",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/41"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=41"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 36,
+        "count": 11,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/main-news/cycling-tour/",
+        "name": "Cycling Tour",
+        "slug": "cycling-tour",
+        "taxonomy": "category",
+        "parent": 35,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/36"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/35"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=36"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/fashion/",
+        "name": "Fashion",
+        "slug": "fashion",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/2"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=2"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 31,
+        "count": 5,
+        "description": "Featured posts",
+        "link": "http://www.schoolpathramacademy.com/category/featured/",
+        "name": "Featured",
+        "slug": "featured",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/31"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=31"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/food/",
+        "name": "Food",
+        "slug": "food",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/3"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=3"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "count": 10,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/main-news/football/",
+        "name": "Football",
+        "slug": "football",
+        "taxonomy": "category",
+        "parent": 35,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/35"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=37"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "count": 11,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/main-news/golf/",
+        "name": "Golf",
+        "slug": "golf",
+        "taxonomy": "category",
+        "parent": 35,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/38"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/35"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=38"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/health/",
+        "name": "Health",
+        "slug": "health",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/4"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=4"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "count": 11,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/main-news/horse-racing/",
+        "name": "Horse Racing",
+        "slug": "horse-racing",
+        "taxonomy": "category",
+        "parent": 35,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/39"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/35"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=39"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 63,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/introduction/",
+        "name": "INTRODUCTION",
+        "slug": "introduction",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/63"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=63"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 61,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/ker/",
+        "name": "KER",
+        "slug": "ker",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/61"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=61"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 65,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/kfc/",
+        "name": "KFC",
+        "slug": "kfc",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/65"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=65"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 62,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/ksr/",
+        "name": "KSR",
+        "slug": "ksr",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/62"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=62"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 64,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/ktc/",
+        "name": "KTC",
+        "slug": "ktc",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/64"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=64"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "count": 4,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/lifestyle/",
+        "name": "Lifestyle",
+        "slug": "lifestyle",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/5"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=5"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 66,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/mop/",
+        "name": "MOP",
+        "slug": "mop",
+        "taxonomy": "category",
+        "parent": 60,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/66"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "up": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=66"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/sports/",
+        "name": "Sports",
+        "slug": "sports",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/6"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=6"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/travel/",
+        "name": "Travel",
+        "slug": "travel",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/7"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=7"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 1,
+        "count": 27,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/uncategorized/",
+        "name": "Uncategorized",
+        "slug": "uncategorized",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=1"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 43,
+        "count": 12,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/video/",
+        "name": "Video",
+        "slug": "video",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/43"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=43"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42,
+        "count": 10,
+        "description": "On each category you can set a Category template style, a Top post style (grids) and a module type for article listing. Also each top post style (grids) have 5 different look style. You can mix them to create a beautiful and unique category page.",
+        "link": "http://www.schoolpathramacademy.com/category/wrc/",
+        "name": "Wrc",
+        "slug": "wrc",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=42"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 52,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%85%e0%b4%aa%e0%b5%87%e0%b4%95%e0%b5%8d%e0%b4%b7%e0%b4%be%e0%b4%ab%e0%b5%8b%e0%b4%b1%e0%b4%99%e0%b5%8d%e0%b4%99%e0%b4%b3%e0%b5%8d%e2%80%8d/",
+        "name": "അപേക്ഷാഫോറങ്ങള്‍",
+        "slug": "%e0%b4%85%e0%b4%aa%e0%b5%87%e0%b4%95%e0%b5%8d%e0%b4%b7%e0%b4%be%e0%b4%ab%e0%b5%8b%e0%b4%b1%e0%b4%99%e0%b5%8d%e0%b4%99%e0%b4%b3%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/52"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=52"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 50,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%89%e0%b4%a8%e0%b5%8d%e0%b4%a8%e0%b4%a4-%e0%b4%b5%e0%b4%bf%e0%b4%a6%e0%b5%8d%e0%b4%af%e0%b4%be%e0%b4%ad%e0%b5%8d%e0%b4%af%e0%b4%be%e0%b4%b8%e0%b4%82/",
+        "name": "ഉന്നത വിദ്യാഭ്യാസം",
+        "slug": "%e0%b4%89%e0%b4%a8%e0%b5%8d%e0%b4%a8%e0%b4%a4-%e0%b4%b5%e0%b4%bf%e0%b4%a6%e0%b5%8d%e0%b4%af%e0%b4%be%e0%b4%ad%e0%b5%8d%e0%b4%af%e0%b4%be%e0%b4%b8%e0%b4%82",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=50"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 67,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/lss/",
+        "name": "എല്‍ എസ് എസ്‌",
+        "slug": "lss",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/67"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=67"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 47,
+        "count": 12,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%95%e0%b4%bf%e0%b4%a1%e0%b5%8d%e2%80%8c%e0%b4%b8%e0%b5%8d-%e0%b4%95%e0%b5%8b%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a3%e0%b4%b0%e0%b5%8d%e2%80%8d/",
+        "name": "കിഡ്‌സ് കോര്‍ണര്‍",
+        "slug": "%e0%b4%95%e0%b4%bf%e0%b4%a1%e0%b5%8d%e2%80%8c%e0%b4%b8%e0%b5%8d-%e0%b4%95%e0%b5%8b%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a3%e0%b4%b0%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/47"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=47"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 70,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%95%e0%b5%86%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%86%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%8d/",
+        "name": "കെറ്റെറ്റ്",
+        "slug": "%e0%b4%95%e0%b5%86%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%86%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/70"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=70"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 56,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%95%e0%b5%8d%e0%b4%b5%e0%b4%bf%e0%b4%b8%e0%b5%8d/",
+        "name": "ക്വിസ്",
+        "slug": "%e0%b4%95%e0%b5%8d%e0%b4%b5%e0%b4%bf%e0%b4%b8%e0%b5%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/56"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=56"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 69,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/quiz/",
+        "name": "ക്വിസ്സ്",
+        "slug": "quiz",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/69"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=69"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 54,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%9e%e0%b4%99%e0%b5%8d%e0%b4%99%e0%b4%b3%e0%b5%86%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%81%e0%b4%b1%e0%b4%bf%e0%b4%9a%e0%b5%8d%e0%b4%9a%e0%b5%8d/",
+        "name": "ഞങ്ങളെക്കുറിച്ച്",
+        "slug": "%e0%b4%9e%e0%b4%99%e0%b5%8d%e0%b4%99%e0%b4%b3%e0%b5%86%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%81%e0%b4%b1%e0%b4%bf%e0%b4%9a%e0%b5%8d%e0%b4%9a%e0%b5%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/54"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=54"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 48,
+        "count": 49,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%9f%e0%b5%80%e0%b4%9a%e0%b5%8d%e0%b4%9a%e0%b5%87%e0%b4%b4%e0%b5%8d%e2%80%8c%e0%b4%b8%e0%b5%8d-%e0%b4%95%e0%b5%8b%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a3%e0%b4%b0%e0%b5%8d%e2%80%8d/",
+        "name": "ടീച്ചേഴ്‌സ് കോര്‍ണര്‍",
+        "slug": "%e0%b4%9f%e0%b5%80%e0%b4%9a%e0%b5%8d%e0%b4%9a%e0%b5%87%e0%b4%b4%e0%b5%8d%e2%80%8c%e0%b4%b8%e0%b5%8d-%e0%b4%95%e0%b5%8b%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a3%e0%b4%b0%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/48"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=48"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 60,
+        "count": 2,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/department-test/",
+        "name": "ഡിപ്പാര്‍ട്ടുമെന്റ് ടെസ്റ്റ്‌",
+        "slug": "department-test",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/60"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=60"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "count": 1,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%a4%e0%b5%8a%e0%b4%b4%e0%b4%bf%e0%b4%b2%e0%b5%8d%e2%80%8d/",
+        "name": "തൊഴില്‍",
+        "slug": "%e0%b4%a4%e0%b5%8a%e0%b4%b4%e0%b4%bf%e0%b4%b2%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/51"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=51"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 45,
+        "count": 37,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%aa%e0%b5%8a%e0%b4%a4%e0%b5%81%e0%b4%b5%e0%b4%be%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d/",
+        "name": "പൊതുവാര്‍ത്തകള്‍",
+        "slug": "%e0%b4%aa%e0%b5%8a%e0%b4%a4%e0%b5%81%e0%b4%b5%e0%b4%be%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/45"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=45"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 35,
+        "count": 31,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/main-news/",
+        "name": "പ്രധാന വാര്‍ത്തകള്‍",
+        "slug": "main-news",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/35"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=35"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 49,
+        "count": 23,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%ae%e0%b4%bf%e0%b4%95%e0%b4%b5%e0%b5%8d/",
+        "name": "മികവ്",
+        "slug": "%e0%b4%ae%e0%b4%bf%e0%b4%95%e0%b4%b5%e0%b5%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/49"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=49"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 68,
+        "count": 0,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/uss/",
+        "name": "യു എസ് എസ്",
+        "slug": "uss",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/68"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=68"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 57,
+        "count": 11,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%b2%e0%b5%87%e0%b4%96%e0%b4%a8%e0%b4%82/",
+        "name": "ലേഖനം",
+        "slug": "%e0%b4%b2%e0%b5%87%e0%b4%96%e0%b4%a8%e0%b4%82",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/57"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=57"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 46,
+        "count": 17,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%b8%e0%b5%8d%e2%80%8c%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%82%e0%b4%b3%e0%b5%8d%e2%80%8d-%e0%b4%b5%e0%b4%be%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d/",
+        "name": "സ്‌ക്കൂള്‍ വാര്‍ത്തകള്‍",
+        "slug": "%e0%b4%b8%e0%b5%8d%e2%80%8c%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%82%e0%b4%b3%e0%b5%8d%e2%80%8d-%e0%b4%b5%e0%b4%be%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/46"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=46"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 53,
+        "count": 3,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%b8%e0%b5%8d%e2%80%8c%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%8b%e0%b4%b3%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%b7%e0%b4%bf%e0%b4%aa%e0%b5%8d%e0%b4%aa%e0%b5%81%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d/",
+        "name": "സ്‌ക്കോളര്‍ഷിപ്പുകള്‍",
+        "slug": "%e0%b4%b8%e0%b5%8d%e2%80%8c%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b5%8b%e0%b4%b3%e0%b4%b0%e0%b5%8d%e2%80%8d%e0%b4%b7%e0%b4%bf%e0%b4%aa%e0%b5%8d%e0%b4%aa%e0%b5%81%e0%b4%95%e0%b4%b3%e0%b5%8d%e2%80%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/53"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=53"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 59,
+        "count": 14,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%b8%e0%b5%bc%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b4%be%e0%b5%bc-%e0%b4%89%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%b0%e0%b4%b5%e0%b5%8d/",
+        "name": "സർക്കാർ ഉത്തരവ്",
+        "slug": "%e0%b4%b8%e0%b5%bc%e0%b4%95%e0%b5%8d%e0%b4%95%e0%b4%be%e0%b5%bc-%e0%b4%89%e0%b4%a4%e0%b5%8d%e0%b4%a4%e0%b4%b0%e0%b4%b5%e0%b5%8d",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/59"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=59"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "count": 23,
+        "description": "",
+        "link": "http://www.schoolpathramacademy.com/category/%e0%b4%b8%e0%b5%bc%e0%b4%b5%e0%b5%8d%e0%b4%b5%e0%b5%80%e0%b4%b8%e0%b5%8d-%e0%b4%ae%e0%b4%be%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%bc/",
+        "name": "സർവ്വീസ് മാറ്റർ",
+        "slug": "%e0%b4%b8%e0%b5%bc%e0%b4%b5%e0%b5%8d%e0%b4%b5%e0%b5%80%e0%b4%b8%e0%b5%8d-%e0%b4%ae%e0%b4%be%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b5%bc",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories/58"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/categories"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/taxonomies/category"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http://www.schoolpathramacademy.com/wp-json/wp/v2/posts?categories=58"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

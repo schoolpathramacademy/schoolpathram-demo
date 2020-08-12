@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_news"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.news.NewsFragment"
+        android:label="@string/menu_news"
+        tools:layout="@layout/news_fragment" />
+
+    <fragment
+        android:id="@+id/nav_resources"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.resource.ResourceFragment"
+        android:label="@string/menu_resources"
+        tools:layout="@layout/resource_fragment" />
+
+    <fragment
+        android:id="@+id/nav_office"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.office.OfficeFragment"
+        android:label="@string/menu_office"
+        tools:layout="@layout/office_fragment" />
+    <fragment
+        android:id="@+id/nav_class"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.classroom.ClassFragment"
+        android:label="@string/menu_class"
+        tools:layout="@layout/class_fragment" />
+
+    <fragment
+        android:id="@+id/nav_results"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.results.ResultsFragment"
+        android:label="@string/menu_results"
+        tools:layout="@layout/results_fragment" />
+
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.help.HelpFragment"
+        android:label="@string/menu_help"
+        tools:layout="@layout/help_fragment" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.user.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.schoolpathram.schoolpathramdotcom.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/about_fragment" />
+
+</navigation>

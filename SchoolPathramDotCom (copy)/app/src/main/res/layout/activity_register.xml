@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/bg_gradient_1"
+    android:padding="@dimen/login_register_horizontal_margin"
+    tools:context=".ui.user.LoginActivity">
+
+
+    <EditText
+
+        android:id="@+id/firstName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_first_name"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:inputType="text"
+        android:gravity="center"
+        android:selectAllOnFocus="true"
+
+        />
+    <EditText
+        android:id="@+id/lastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_last_name"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:inputType="text"
+        android:gravity="center"
+        android:selectAllOnFocus="true"
+        android:layout_below="@+id/firstName"
+        />
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_email_register"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:inputType="textEmailAddress"
+        android:gravity="center"
+        android:selectAllOnFocus="true"
+        android:layout_below="@+id/lastName"
+
+        />
+    <EditText
+        android:id="@+id/mobileNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_mobile"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:inputType="text"
+        android:gravity="center"
+        android:selectAllOnFocus="true"
+        android:layout_below="@+id/username"
+        />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_password"
+        android:textColorHint="@color/white"
+        android:gravity="center"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:textColor="@color/white"
+        android:inputType="numberPassword"
+        android:selectAllOnFocus="true"
+        android:maxLength="4"
+        android:layout_below="@+id/mobileNumber"
+        />
+    <EditText
+        android:id="@+id/cPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prompt_c_password"
+        android:textColorHint="@color/white"
+        android:gravity="center"
+        android:imeActionLabel="@string/action_sign_in_short"
+        android:imeOptions="actionDone"
+        android:textColor="@color/white"
+        android:inputType="numberPassword"
+        android:selectAllOnFocus="true"
+        android:maxLength="4"
+        android:layout_below="@+id/password"
+        />
+
+    <Button
+        android:id="@+id/registerUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cPassword"
+        android:layout_gravity="start"
+        android:textColor="@color/white"
+        android:enabled="true"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:text="@string/action_register" />
+    <Button
+        android:id="@+id/loginUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/registerUser"
+        android:layout_gravity="start"
+        android:textColor="@color/white"
+        android:enabled="true"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:text="@string/action_sign_in" />
+
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+
+        />
+</RelativeLayout>

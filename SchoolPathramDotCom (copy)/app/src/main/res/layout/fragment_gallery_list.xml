@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gallery_swipe_container"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_gradient_1"
+    android:layout_height="match_parent">
+
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/rvList"
+    android:name="com.schoolpathram.schoolpathramdotcom.ui.gallery.GalleryFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    app:layoutManager="LinearLayoutManager"
+    tools:context=".ui.gallery.GalleryFragment"
+    tools:listitem="@layout/fragment_gallery_grid" />
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

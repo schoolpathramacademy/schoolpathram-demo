@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+
+
+
+    <item name="ic_menu_about" type="drawable">@drawable/baseline_info_24</item>
+    <item name="ic_menu_class" type="drawable">@drawable/baseline_note_24</item>
+    <item name="ic_menu_home" type="drawable">@drawable/baseline_home_24</item>
+    <item name="ic_menu_news" type="drawable">@drawable/baseline_dynamic_feed_24</item>
+    <item name="ic_menu_office" type="drawable">@drawable/baseline_room_preferences_24</item>
+    <item name="ic_menu_result" type="drawable">@drawable/baseline_grading_24</item>
+    <item name="ic_menu_resource" type="drawable">@drawable/baseline_article_24</item>
+
+
+
+</resources>

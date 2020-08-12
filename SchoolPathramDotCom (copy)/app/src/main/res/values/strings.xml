@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">സ്‌കൂൾപത്രം</string>
+    <string name="app_version">1.0.0 Beta</string>
+    <string name="app_web_site">www.schoolpathram.com</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">സ്‌കൂൾപത്രം</string>
+    <string name="nav_header_subtitle">www.schoolpathram.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_news">News Updates</string>
+    <string name="menu_resources">Resource Updates</string>
+    <string name="menu_office">Office Related</string>
+    <string name="menu_class">Class Related</string>
+    <string name="menu_results">Results</string>
+    <string name="menu_about">About</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_test">Test</string>sc
+    <string name="menu_profile">Profile</string>
+    <string name="menu_test_1">Test 1</string>
+
+
+    <string name="news_description">Description</string>
+    <string name="news_title">Title</string>
+    <string name="news_secondary_text">Secondary Text</string>
+    <string name="news_supporting_text">Supporting Text</string>
+    <string name="news_action_like">Like</string>
+    <string name="news_action_comment">Comment</string>
+
+    <string name="about_text">About Us</string>
+
+
+    <!--    News sample data-->
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_label">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="news_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="news_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="news_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="image_urls">
+        <item>http://i.imgur.com/rFLNqWI.jpg</item>
+        <item>http://i.imgur.com/C9pBVt7.jpg</item>
+        <item>http://i.imgur.com/rT5vXE1.jpg</item>
+        <item>http://i.imgur.com/aIy5R2k.jpg</item>
+        <item>http://i.imgur.com/MoJs9pT.jpg</item>
+        <item>http://i.imgur.com/S963yEM.jpg</item>
+        <item>http://i.imgur.com/rLR2cyc.jpg</item>
+        <item>http://i.imgur.com/SEPdUIx.jpg</item>
+        <item>http://i.imgur.com/aC9OjaM.jpg</item>
+        <item>http://i.imgur.com/76Jfv9b.jpg</item>
+        <item>http://i.imgur.com/fUX7EIB.jpg</item>
+    </string-array>
+
+
+    <string name="cat_card_title">Cards</string>
+    <string name="cat_card_draggable_card">Draggable Card</string>
+    <string name="cat_card_selection_mode">Selectable Cards</string>
+    <string name="cat_card_selectable_item_title">Message</string>
+    <string name="cat_card_states">Card States</string>
+    <string name="cat_card_list" translatable="false">Card List With Drag-and-Drop</string>
+    <string name="cat_card_draggable_card_content">This is a draggable Card.</string>
+    <string name="cat_card_states_card_content">This demo shows the different states on a card.</string>
+    <string name="cat_card_state_hovered">Hovered</string>
+    <string name="cat_card_state_pressed">Pressed</string>
+    <string name="cat_card_state_none">None</string>
+    <string name="cat_card_checkable_card">This is a checkable Card</string>
+    <string name="cat_card_m1_section_title">Material 1 CardView</string>
+    <string name="cat_card_description">
+    Cards represent entry points into deeper levels of detail or navigation, such as an album in
+    Music or an upcoming vacation in Trips. They can be used in a grid, carousel, or feed to
+    contain groups of individual packaged information.
+  </string>
+    <string name="cat_card_spacing_desc">
+    Cards on mobile default to 8dp margins. layout_margin needs to be set directly on a View in its
+    layout and will not work when included as part of a style.
+  </string>
+    <string name="cat_card_clickable_desc">
+    Cards can be clickable.
+  </string>
+    <string name="cat_card_elevation_desc">Cards have 1dp elevation.</string>
+    <string name="cat_card_m1_desc">
+    CardView from the Support Library works side-by-side with MaterialCardView. These cards default
+    to Material 1 styles and support fewer style attributes than MaterialCardView.
+  </string>
+    <string name="cat_card_style_only_desc">
+    MaterialCardView uses the correct styles by default and makes use of additional style attributes
+    that are not provided in CardView. If you do not need to use the new style attributes, you can
+    use MaterialCardView in your layout, or apply a style tag to a CardView. We recommend using
+    the MaterialCardView class for the latest Material designs and maximum flexibility in your UI.
+  </string>
+    <string name="cat_card_select">Select a state</string>
+    <string name="cat_card_selectable_content">
+    Lorem ipsum dolor sit amet, nec no nominavi scaevola. Per et sint sapientem, nobis perpetua salutandi mei te. Quo tamquam probatus reprehendunt in. Eos esse purto eruditi ea. Enim tation persius ut sea, eos ad consul populo.
+    Ne eum solet altera. Cibo eligendi et est, electram theophrastus te vel eu.
+  </string>
+
+    <!-- Rich Media Demo Strings -->
+    <string name="cat_card_rich_media_demo">Rich Media Cards</string>
+    <string name="cat_card_rich_media_sample_1">Sample #1</string>
+    <string name="cat_card_rich_media_sample_2">Sample #2</string>
+    <string name="cat_card_rich_media_sample_3">Sample #3</string>
+    <string name="cat_card_rich_media_view_overline">Title goes here</string>
+    <string name="cat_card_rich_media_view_title">Title goes here</string>
+    <string name="cat_card_rich_media_view_subtitle">Subtitle goes here</string>
+    <string name="cat_card_rich_media_view_secondary_line_text">Secondary line text Lorem ipsum dolor sit amet, nec no nominavi scaevola. Per et sint sapientem, nobis perpetua salutandi mei te.</string>
+    <string name="cat_card_rich_media_logo_view_description">Card Logo</string>
+    <string name="cat_card_rich_media_image_view_description">Card Image</string>
+    <string name="cat_card_rich_media_rating_text">4.5 (413)</string>
+    <string name="cat_card_rich_media_rating_view_description">Card Rating</string>
+    <string name="cat_card_rich_media_chip_title_1">Item 1</string>
+    <string name="cat_card_rich_media_chip_title_2">Item 2</string>
+    <string name="cat_card_rich_media_chip_title_3">Item 3</string>
+    <string name="cat_card_rich_media_chip_title_4">Item 4</string>
+    <string name="cat_card_rich_media_action_1">Action 1</string>
+    <string name="cat_card_rich_media_action_2">Action 2</string>
+
+    <string name="cat_card_action_move_top_left" description="A description of an action that a user of an accessibility service can perform to move the card to the top left corner of the screen. [CHAR LIMIT=25]">Move to top left</string>
+
+
+    <string name="cat_card_action_move_up" description="A description of an action that a user of an accessibility service can perform to swap the card with the one above it. [CHAR LIMIT=25]">Move Up</string>
+    <string name="cat_card_action_move_down" description="A description of an action that a user of an accessibility service can perform to swap the card with the one below it. [CHAR LIMIT=25]">Move Down</string>
+    <string name="cat_card_action_move_top_right" description="A description of an action that a user of an accessibility service can perform to move the card to the top right corner of the screen. [CHAR LIMIT=25]">Move to top right</string>
+    <string name="cat_card_action_move_bottom_left" description="A description of an action that a user of an accessibility service can perform to move the card to the bottom left corner of the screen. [CHAR LIMIT=25]">Move to bottom left</string>
+    <string name="cat_card_action_move_bottom_right" description="A description of an action that a user of an accessibility service can perform to move the card to the bottom right corner of the screen. [CHAR LIMIT=25]">Move to bottom right</string>
+    <string name="cat_card_action_move_center" description="A description of an action that a user of an accessibility service can perform to move the card to the center of the screen. [CHAR LIMIT=25]">Move to center</string>
+
+    <string name="cat_card_dismissed" description="a transient text that appears on screen when a card is dismissed [CHAR LIMIT=30]">Card Dismissed</string>
+    <string name="cat_card_undo" description="A label in a button to dismiss the last action [CHAR LIMIT=15]">Undo</string>
+    <string name="cat_card_swipe_to_dismiss" description="A label in a button to dismiss the last action [CHAR LIMIT=30]">Swipe this card to dismiss it</string>
+    <string name="cat_card_swipe_dismiss" description="the title of a screen where you can swipe to dismiss a card [CHAR LIMIT=20]">Card Swipe Dismiss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--    LInks section-->
+    <string name="result_exam_link">http://keralaresults.nic.in</string>
+    <string name="result_arts_link">http://www.schoolkalolsavam.in</string>
+    <string name="link_samagra_portal">http://www.schoolkalolsavam.in</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email or Mobile Number</string>
+    <string name="prompt_email_register">Email</string>
+
+
+    <string name="prompt_mobile">Mobile Number</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <!--    <string name="prompt_confirm_password"></string>-->
+
+
+    <string name="prompt_password">Password</string>
+    <string name="prompt_c_password">Re-Type Password</string>
+
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register New Account</string>
+    <string name="action_update_profile">Update Profile Details</string>
+
+
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+<!--    https://samagra.kite.kerala.gov.in/-->
+    <string name="alert_dialog_user_already_exists">"App currently supports only a single user, Do you want to override previous data?
+        It will delete all information about the previous user?"</string>
+
+    <string name="alert_dialog_cancel">"Cancel"</string>
+    <string name="alert_dialog_ok">"Overwrite Data!"</string>
+
+
+
+
+</resources>

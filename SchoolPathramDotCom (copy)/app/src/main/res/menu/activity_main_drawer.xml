@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_news"
+            android:title="@string/menu_news" />
+        <item
+            android:id="@+id/nav_resources"
+            android:icon="@drawable/ic_menu_resource"
+            android:title="@string/menu_resources" />
+        <item
+            android:id="@+id/nav_office"
+            android:icon="@drawable/ic_menu_office"
+            android:title="@string/menu_office" />
+        <item
+            android:id="@+id/nav_class"
+            android:icon="@drawable/ic_menu_class"
+            android:title="@string/menu_class" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_results"
+            android:icon="@drawable/ic_menu_result"
+            android:title="@string/menu_results" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_about"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/baseline_account_circle_24"
+            android:title="@string/menu_about" />
+    </group>
+</menu>

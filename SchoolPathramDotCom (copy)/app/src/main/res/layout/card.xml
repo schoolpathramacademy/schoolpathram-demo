@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="285dp"
+    android:layout_height="wrap_content"
+    android:gravity="center|center_horizontal|center_vertical"
+    android:orientation="vertical"
+    android:paddingTop="120dp">
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="285dp"
+        android:layout_height="286dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+        <TextView
+            android:id="@+id/cardTitle"
+            android:layout_width="271dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginRight="17dp"
+            android:background="@drawable/circle_retangle"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/content"
+            android:layout_width="271dp"
+            android:layout_height="246dp"
+            android:layout_below="@+id/cardTitle"
+            android:layout_marginLeft="17dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginRight="17dp"
+            android:background="@drawable/circle_retangle"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/center"
+        android:layout_width="285dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:scaleType="matrix"></ImageView>
+
+    <TextView
+        android:id="@+id/comment"
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="left"
+        android:padding="20dp"
+        android:textSize="12sp" />
+
+</LinearLayout>
